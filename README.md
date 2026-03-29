@@ -35,9 +35,9 @@ Through this project, I developed skills based on Digital Literacy by completing
 ---
 
 ## Repository Structure
+- report/
 - task-1-presentation/  
 - task-2-portfolio/  
 - task-3-platforms/  
 - task-4-email-etiquette/  
-- task-5-cybercrime/  
-- report/  
+- task-5-cybercrime/
