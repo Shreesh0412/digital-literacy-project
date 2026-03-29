@@ -30,7 +30,9 @@ Through this project, I developed skills based on Digital Literacy by completing
 - Canva  
 - Google Docs  
 - Google Forms  
-- Google Sheets  
+- Google Sheets
+- Microsoft Word
+- TextEdit
 
 ---
 
