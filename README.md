@@ -1,7 +1,7 @@
 # Digital Literacy Project
 
 ## Student Details
-- **Name:** Shreesh Upadhyay  
+- **Name:** Shreesh Upadhayay  
 - **Registration Number:** 25BAI10525  
 - **Course:** Digital Literacy (CSE0001)
 
